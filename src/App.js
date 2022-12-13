@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 //components
@@ -7,7 +7,7 @@ import Header from './components/Header';
 
 import UserList from './components/UserList';
 
-import Deneme from './components/Deneme';
+
 
 
 //npm start
